@@ -35,7 +35,7 @@ The slope (0.17) means that for every 1-minute increase in Total Day Minutes, th
    - R-square Score: 0.9999999  
 
 
-## Key Insights
+# Key Insights
 • The model shows a near-perfect linear relationship between minutes and charges  
 • Very low error and high R-square confirm excellent predictive performance  
 • Demonstrates simple linear regression: one independent variable predicting one dependent variable  
